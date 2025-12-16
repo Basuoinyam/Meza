@@ -1,6 +1,0 @@
-Algorithm,Length,Cost,Nodes Explored,Time (ms)
-BFS,9,16,19,0.0000
-DFS,9,20,17,0.0000
-UCS,9,16,18,0.0000
-HillClimb,No Path,-,7,0.0000
-A*,9,16,17,0.0000
