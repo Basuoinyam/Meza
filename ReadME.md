@@ -47,7 +47,7 @@ To match the logic in the code, the encoding is as follows:
 - `0` → **Wall / Obstacle** (Cannot be traversed).
 - `1` → Standard Path (Cost = 1).
 - `2-9` → High Cost Path (Simulates traffic, mud, or difficult terrain).
-
+'''
 ## 📂 Project Structure
 meza/
 │
