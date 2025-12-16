@@ -48,13 +48,6 @@ To match the logic in the code, the encoding is as follows:
 - `1` → Standard Path (Cost = 1).
 - `2-9` → High Cost Path (Simulates traffic, mud, or difficult terrain).
 
-**Example `maze.txt` content:**
-```text
-S 1 9 1 1
-1 0 1 0 5
-1 0 1 1 1
-1 0 9 0 1
-1 1 1 0 G
 ## 📂 Project Structure
 meza/
 │
