@@ -47,8 +47,9 @@ To match the logic in the code, the encoding is as follows:
 - `0` → **Wall / Obstacle** (Cannot be traversed).
 - `1` → Standard Path (Cost = 1).
 - `2-9` → High Cost Path (Simulates traffic, mud, or difficult terrain).
-'''
+  
 ## 📂 Project Structure
+```bash
 meza/
 │
 ├── algorithms/             # Algorithm implementations
@@ -68,3 +69,4 @@ meza/
 ├── main.py                 # Entry point (Runs the comparison)
 ├── results.csv             # Generated report (Excel compatible)
 └── *.png                   # Generated images of the solutions
+'''
